@@ -1,0 +1,11 @@
+{
+    "token": "UserToken",
+    "prefix": "z/",
+
+    "messagelogs": "True",
+    "notifymessages": "False",
+    "notfiymessagesSOUND": "indexes/extra/ding.mp3",
+
+    "notifymessageWORDS": [ "Put Words here / Phrases " ]
+
+}
