@@ -23,6 +23,12 @@ Then
 ```
 git clone https://github.com/Creationsss/Python-SelfBot
 ```
+
+Then
+
+```
+Run The Install.bat File, will not work otherwise.
+```
 ### Images Of Program
 
 ![Image](https://i.imgur.com/wFpaPfQ.png)
